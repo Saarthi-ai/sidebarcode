@@ -1,0 +1,10 @@
+.BarIcon {
+    margin-top: 20px;
+    cursor: pointer;
+}
+.BarIcon img {
+    height: 40px;
+}
+h6{
+    margin:0;
+}
